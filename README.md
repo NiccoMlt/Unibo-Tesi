@@ -1,5 +1,6 @@
 # Unibo Tesi
 
+[![Build Status](https://travis-ci.com/NiccoMlt/Unibo-Tesi.svg?branch=master)](https://travis-ci.com/NiccoMlt/Unibo-Tesi)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
